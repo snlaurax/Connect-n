@@ -5,9 +5,9 @@ In this game of Connect-n, we play with different variations of board sizes and 
 
 <p float="left">
 
-<img width="425" alt="Screen Shot 2022-01-04 at 1 50 11 PM" src="https://user-images.githubusercontent.com/81529754/148109687-a834c75d-e133-452c-8787-f06544e5c367.png">
+<img width="350" alt="Screen Shot 2022-01-04 at 1 50 11 PM" src="https://user-images.githubusercontent.com/81529754/148109687-a834c75d-e133-452c-8787-f06544e5c367.png">
 
-<img width="425" alt="Screen Shot 2022-01-04 at 1 50 14 PM" src="https://user-images.githubusercontent.com/81529754/148109706-86fb66d0-cc53-4319-a035-3bf1bc828360.png">
+<img width="350" alt="Screen Shot 2022-01-04 at 1 50 14 PM" src="https://user-images.githubusercontent.com/81529754/148109706-86fb66d0-cc53-4319-a035-3bf1bc828360.png">
 </p>
 
 
