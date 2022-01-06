@@ -11,6 +11,14 @@ In this game of Connect-n, we play with different variations of board sizes and 
 </p>
 
 
-
 # The Player 
-how many variations of Connect 4 
+There are three kind of player types in Connect-N: HumanPlayer, BadPlayer, SmartPlayer.
+
+**HumanPlayer**
+Pretty self explanatory I hope.
+
+**BadPlayer**
+This is a computer player that will place a piece at the first empty column it identifies. 
+
+**Smart Player**
+This is where the gold is. The SmartPlayer is a computer player that will calculate the most optimal move each round by playing through every possible outcome of the game. Well of course, there's the limitation of time since we don't want to wait forever. You can change the time in the provided.h file. I used recursion here to play through every move and assigned 0, -1, and 1 to the move if it would result in a tie, loss or a win respectively. The SmartPlayer would place its piece in the column that would result in the quickest win. If it isn't able to win (humans can be smarter than computers sometime!), it will place its piece in the column that would result in the quickest tie. 
